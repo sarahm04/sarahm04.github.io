@@ -1,0 +1,26 @@
+body{
+    background-color:oldlace;
+}
+
+h1{
+    color:red;
+    font-size: 24;
+}
+
+hr{
+    color:blueviolet;
+    height: 10px;
+    width: 50%;
+}
+
+P{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 16px;
+
+}
+
+#toptext{
+    position: absolute; top: 80px; left: 20 px; right: 40px;
+    background-color: aqua;
+    padding: 20px;
+}
